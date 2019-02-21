@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0449e8ba-0708-4071-8eb6-5fba63ebb205",
+    "data": [
+      {
+        "text": "I need support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550378380
+  },
+  {
+    "id": "99d1b232-d017-4074-be50-db19a1c03128",
+    "data": [
+      {
+        "text": "i need customer support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550378380
+  },
+  {
+    "id": "775b7cfa-3dcf-4b7a-addb-737bedef6985",
+    "data": [
+      {
+        "text": "help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550378380
+  },
+  {
+    "id": "f681361e-d9a7-47df-9069-8520aec7050e",
+    "data": [
+      {
+        "text": "Please help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550378380
+  },
+  {
+    "id": "381a711c-af70-48f1-b249-f1271fe23071",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550318303
+  }
+]

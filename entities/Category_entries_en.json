@@ -1,0 +1,26 @@
+[
+  {
+    "value": "economy",
+    "synonyms": [
+      "economy",
+      "lower",
+      "basic"
+    ]
+  },
+  {
+    "value": "standard",
+    "synonyms": [
+      "standard",
+      "average",
+      "casual"
+    ]
+  },
+  {
+    "value": "Vip",
+    "synonyms": [
+      "Vip",
+      "higher",
+      "upper class"
+    ]
+  }
+]

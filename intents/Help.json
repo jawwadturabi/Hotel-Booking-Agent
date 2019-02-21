@@ -1,0 +1,31 @@
+{
+  "id": "ee0ad2c2-9db2-4d29-a236-11573d4a5cfe",
+  "name": "Help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Kindly mention what kind of help do you want?",
+            "Please specify which sort of help do you required?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550378380,
+  "fallbackIntent": false,
+  "events": []
+}

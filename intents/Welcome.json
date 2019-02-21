@@ -1,0 +1,40 @@
+{
+  "id": "4b6d2574-f958-420d-9bb6-5d10c4346cda",
+  "name": "Welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Bookhotel",
+      "affectedContexts": [
+        {
+          "name": "Welcome-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "hi.Welcome to our hotel. You can enjoy our Hotel services here.",
+            "hello! Welcome ! Here we provide you the details about Hotel services.",
+            "You are welcome to our hotel.",
+            "We warmly welcome you to our hotel."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550601590,
+  "fallbackIntent": false,
+  "events": []
+}

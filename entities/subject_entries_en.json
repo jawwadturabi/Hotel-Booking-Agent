@@ -1,0 +1,39 @@
+[
+  {
+    "value": "Secuirty",
+    "synonyms": [
+      "Secuirty",
+      "security",
+      "protection"
+    ]
+  },
+  {
+    "value": "laundry",
+    "synonyms": [
+      "laundry",
+      "room service"
+    ]
+  },
+  {
+    "value": "food",
+    "synonyms": [
+      "food",
+      "dine"
+    ]
+  },
+  {
+    "value": "management",
+    "synonyms": [
+      "management",
+      "discipline",
+      "staff"
+    ]
+  },
+  {
+    "value": "plumbing service",
+    "synonyms": [
+      "plumbing service",
+      "water leakage"
+    ]
+  }
+]
